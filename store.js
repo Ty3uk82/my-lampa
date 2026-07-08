@@ -34,14 +34,14 @@
                     var catalog = [
                       {
                         "name": "Alternative Search",
-                        "url": "https://github.io",
+                        "url": "https://nb557.github.io/plugins/alt_search.js",
                         "id": "alt_search",
                         "version": "1.0.0",
                         "description": "Альтернативный поиск фильмов при блокировках TMDB"
                       },
                       {
                         "name": "Online Mod",
-                        "url": "https://github.io",
+                        "url": "https://nb557.github.io/plugins/online_mod.js",
                         "id": "online_mod",
                         "version": "1.0.0",
                         "description": "Онлайн просмотр через балансеры без цензуры"
