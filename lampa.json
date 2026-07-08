@@ -49,33 +49,3 @@
     "description": "Сетевые фиксы для стабильной работы торрент-парсера и TorrServer"
   }
 ]
-[
-  {
-    "name": "Alternative Search",
-    "url": "https://nb557.github.io/plugins/alt_search.js"
-  },
-  {
-    "name": "Online Mod (Censorship Free)",
-    "url": "https://nb557.github.io/plugins/online_mod.js"
-  },
-  {
-    "name": "Kinopoisk Ratings",
-    "url": "https://nb557.github.io/plugins/rating.js"
-  },
-  {
-    "name": "Reset Subtitles Fix",
-    "url": "https://nb557.github.io/plugins/reset_subs.js"
-  },
-  {
-    "name": "TMDB Proxy Server",
-    "url": "https://nb557.github.io/plugins/tmdb_proxy.js"
-  },
-  {
-    "name": "Uncensored LGBT Bypass",
-    "url": "https://cub.rip/plugin/lgbt"
-  },
-  {
-    "name": "Tricks & Torrent Fix",
-    "url": "https://andreyurl54.github.io/diesel5/tricks.js"
-  }
-]
