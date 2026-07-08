@@ -1,6 +1,57 @@
 [
   {
     "name": "Alternative Search",
+    "url": "https://github.io",
+    "id": "alt_search",
+    "version": "1.0.0",
+    "description": "Альтернативный поиск фильмов и обход блокировок каталога TMDB"
+  },
+  {
+    "name": "Online Mod (Censorship Free)",
+    "url": "https://github.io",
+    "id": "online_mod",
+    "version": "1.0.0",
+    "description": "Онлайн просмотр фильмов и сериалов через популярные балансеры без цензуры"
+  },
+  {
+    "name": "Kinopoisk Ratings",
+    "url": "https://github.io",
+    "id": "rating",
+    "version": "1.0.0",
+    "description": "Вывод рейтингов Кинопоиск и IMDb прямо на постеры в каталоге"
+  },
+  {
+    "name": "Reset Subtitles Fix",
+    "url": "https://github.io",
+    "id": "reset_subs",
+    "version": "1.0.0",
+    "description": "Сброс зависших настроек субтитров"
+  },
+  {
+    "name": "TMDB Proxy Server",
+    "url": "https://github.io",
+    "id": "tmdb_proxy",
+    "version": "1.0.0",
+    "description": "Проксирование запросов для стабильной загрузки описаний и постеров"
+  },
+  {
+    "name": "Uncensored LGBT Bypass",
+    "url": "https://cub.rip",
+    "id": "lgbt_bypass",
+    "version": "1.0.0",
+    "description": "Снятие региональных заглушек на карточках фильмов"
+  },
+  {
+    "name": "Tricks & Torrent Fix",
+    "url": "https://github.io",
+    "id": "tricks_fix",
+    "version": "1.0.0",
+    "description": "Сетевые фиксы для стабильной работы торрент-парсера и TorrServer"
+  }
+]
+[
+  {
+    "name": "Alternative Search",
     "url": "https://nb557.github.io/plugins/alt_search.js"
   },
   {
