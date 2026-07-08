@@ -1,17 +1,29 @@
-[
-  {
-    "name": "Alternative Search",
-    "url": "https://nb557.github.io/plugins/alt_search.js",
-    "id": "alt_search",
-    "version": "1.0.0",
-    "description": "Альтернативный поиск фильмов и обход блокировок каталога TMDB"
-  },
-  {
-    "name": "Online Mod (Censorship Free)",
-    "url": "https://nb557.github.io/plugins/online_mod.js",
-    "id": "online_mod",
-    "version": "1.0.0",
-    "description": "Онлайн просмотр фильмов и сериалов через популярные балансеры без цензуры"
-  }
-
-]
+{
+  "secuses": true,
+  "results": [
+    {
+      "title": "Популярные",
+      "results": [
+        {
+          "name": "Z01",
+          "author": "@z01support",
+          "link": "http://z01.online/live",
+          "descr": "Фильмы и сериалы в онлайн",
+          "available_lampa": 1
+        },
+        {
+          "name": "by Skaz",
+          "author": "@helpiptv",
+          "link": "http://skaz.tv/tv.js",
+          "descr": "Телевидение и Онлайн 4к. 1900+ каналов, Фильмы и сериалы",
+          "available_lampa": 1
+        },
+        {
+          "name": "BWA",
+          "author": "@bwa",
+          "link": "http://bwa.ad/rc",
+          "descr": "Фильмы и сериалы в онлайн",
+          "available_lampa": 1
+        }
+      ]
+}
