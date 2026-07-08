@@ -20,11 +20,39 @@
         if (e.name == 'main') {
             e.body.find('[data-component="my_custom_store"]').on('hover:enter', function() {
                 
-                // Передаем правильный сетевой параметр store и добавляем метку против кэша
+                // Перехватываем стандартный рендеринг Лампы и насильно подменяем данные
+                // Оболочка думает, что качает пустой файл, но мы подсовываем готовый список
+                var originalLoad = Lampa.Api.extensions || Lampa.Extensions.load;
+                
                 Lampa.Extensions.show({
-                    store: 'https://github.io' + new Date().getTime(),
+                    store: 'data:application/json,[]', // обманка для обхода CORS-блокировки
                     with_installed: true
                 });
+
+                // Мгновенно перерисовываем открывшееся окно нашими чистыми данными
+                setTimeout(function() {
+                    var catalog = [
+                      {
+                        "name": "Alternative Search",
+                        "url": "https://github.io",
+                        "id": "alt_search",
+                        "version": "1.0.0",
+                        "description": "Альтернативный поиск фильмов при блокировках TMDB"
+                      },
+                      {
+                        "name": "Online Mod",
+                        "url": "https://github.io",
+                        "id": "online_mod",
+                        "version": "1.0.0",
+                        "description": "Онлайн просмотр через балансеры без цензуры"
+                      }
+                    ];
+                    
+                    // Насильно заставляем Лампу отобразить наши два пункта
+                    if (Lampa.Extensions.visible) {
+                        Lampa.Extensions.visible(catalog);
+                    }
+                }, 100);
 
             });
         }
