@@ -2,29 +2,57 @@
   "secuses": true,
   "results": [
     {
-      "title": "Популярные",
+      "title": "Моя рабочая сборка",
       "results": [
         {
-          "name": "Z01",
-          "author": "@z01support",
-          "link": "http://z01.online/live",
-          "descr": "Фильмы и сериалы в онлайн",
+         "name": "Alternative Search",
+          "author": "nb557",
+          "link": "https://nb557.github.io/plugins/alt_search.js",
+          "descr": "Альтернативный поиск фильмов и обход блокировок каталога TMDB",
           "available_lampa": 1
         },
         {
-          "name": "by Skaz",
-          "author": "@helpiptv",
-          "link": "http://skaz.tv/tv.js",
-          "descr": "Телевидение и Онлайн 4к. 1900+ каналов, Фильмы и сериалы",
+        "name": "Online Mod (Censorship Free)",
+          "author": "nb557",
+          "link": "https://nb557.github.io/plugins/online_mod.js",
+          "descr": "Онлайн просмотр фильмов через популярные балансеры без цензуры",
           "available_lampa": 1
         },
         {
-          "name": "BWA",
-          "author": "@bwa",
-          "link": "http://bwa.ad/rc",
-          "descr": "Фильмы и сериалы в онлайн",
+          "name": "Kinopoisk Ratings",
+          "author": "nb557",
+          "link": "https://nb557.github.io/plugins/rating.js",
+          "descr": "Вывод рейтингов Кинопоиск и IMDb прямо на постеры в каталоге",
           "available_lampa": 1
-        } 
+        },
+        {
+          "name": "Reset Subtitles Fix",
+          "author": "nb557",
+          "link": "https://nb557.github.io/plugins/reset_subs.js",
+          "descr": "Сброс зависших настроек субтитров к дефолтным",
+          "available_lampa": 1
+        },
+        {
+          "name": "TMDB Proxy Server",
+          "author": "nb557",
+          "link": "https://nb557.github.io/plugins/tmdb_proxy.js",
+          "descr": "Проксирование запросов для стабильной загрузки описаний и постеров",
+          "available_lampa": 1
+        },
+        {
+          "name": "Uncensored LGBT Bypass",
+          "author": "CUB",
+          "link": "https://cub.rip/plugin/lgbt",
+          "descr": "Снятие региональных заглушек на карточках фильмов",
+          "available_lampa": 1
+        },
+        {
+          "name": "Tricks & Torrent Fix",
+          "author": "andreyurl54",
+          "link": "https://andreyurl54.github.io/diesel5/tricks.js",
+          "descr": "Сетевые фиксы для стабильной работы торрент-парсера и TorrServer",
+          "available_lampa": 1
+        }
       ]
     }
   ]
