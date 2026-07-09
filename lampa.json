@@ -5,8 +5,14 @@
       "title": "Моя сборка",
       "results": [
 
-
-      {
+       { 
+        "name": "Альтернативный магазин",
+          "author": "bylampa",
+          "link": "https://bylampa.github.io/addon.js",
+          "descr": "Помогает ставить расширения в один клик без ввода адресов вручную",
+          "available_lampa": 1
+        },
+        {
         "name": "Переключатель парсеров",
           "author": "bylampa",
           "link": "https://bylampa.github.io/jackett.js",
