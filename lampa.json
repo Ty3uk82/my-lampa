@@ -5,7 +5,16 @@
       "title": "Моя сборка",
       "results": [
 
-  
+        
+        
+        
+        {
+        "name": "Tracks",
+          "author": "CUB",
+          "link": "https://cub.rip/plugin/tracks",
+          "descr": "tracks",
+          "available_lampa": 1
+        },
         {
         "name": "Переключатель парсеров",
           "author": "bylampa",
