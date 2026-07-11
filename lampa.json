@@ -6,8 +6,13 @@
       "results": [
 
         
-        
-        
+        {
+        "name": "store",
+          "author": "lampaplugins",
+          "link": "https://lampaplugins.github.io/store/store.js",
+          "descr": "Магазин",
+          "available_lampa": 1
+        },
         {
         "name": "Публичные торренты",
           "author": "lampame",
