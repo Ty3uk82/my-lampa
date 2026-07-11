@@ -7,10 +7,10 @@
 
         
         {
-        "name": "store",
-          "author": "lampaplugins",
-          "link": "https://lampaplugins.github.io/store/store.js",
-          "descr": "Магазин",
+        "name": "Surs",
+          "author": "aviamovie",
+          "link": "https://aviamovie.github.io/surs.js",
+          "descr": "Плагин создает уникальные подборки фильмов и сериалов.",
           "available_lampa": 1
         },
         {
@@ -20,13 +20,7 @@
           "descr": "Публичные торренты",
           "available_lampa": 1
         },
-        {
-        "name": "Tracks",
-          "author": "CUB",
-          "link": "https://cub.rip/plugin/tracks",
-          "descr": "tracks",
-          "available_lampa": 1
-        },
+       
         {
           "name": "Tricks & Torrent Fix",
           "author": "andreyurl54",
