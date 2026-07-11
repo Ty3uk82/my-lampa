@@ -3,7 +3,7 @@
 
     // 1. Указываем название магазина
     Lampa.Lang.add({
-        my_custom_store: { ru: "Мой список", en: "My Store" }
+        my_custom_store: { ru: "Моя сборка плагинов", en: "My Store" }
     });
 
     // 2. Создаем шаблон кнопки с иконкой коробки (SVG)
