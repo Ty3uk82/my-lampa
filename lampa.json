@@ -23,13 +23,6 @@
           "available_lampa": 1
         },
         {
-        "name": "Переключатель парсеров",
-          "author": "bylampa",
-          "link": "https://bylampa.github.io/jackett.js",
-          "descr": "Список готовых Jackett-серверов с возможностью менять их кнопкой",
-          "available_lampa": 1
-        },
-        {
           "name": "Tricks & Torrent Fix",
           "author": "andreyurl54",
           "link": "https://andreyurl54.github.io/diesel5/tricks.js",
