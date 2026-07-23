@@ -72,6 +72,13 @@
           "available_lampa": 1
         },
         {
+          "name": "Вкладка парсер",
+          "author": "CUB",
+          "link": "http://cub.red/plugin/etor",
+          "descr": "Вкладка парсер",
+          "available_lampa": 1
+        },
+        {
           "name": "Uncensored LGBT Bypass",
           "author": "CUB",
           "link": "https://cub.rip/plugin/lgbt",
