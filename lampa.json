@@ -5,7 +5,15 @@
       "title": "Моя сборка плагинов",
       "results": [
 
-        
+
+
+        {
+        "name": "Переключатель парсеров",
+          "author": "bylampa",
+          "link": "https://bylampa.github.io/jackett.js",
+          "descr": "Список готовых Jackett-серверов с возможностью менять их кнопкой",
+          "available_lampa": 1
+        },
         {
         "name": "Surs",
           "author": "aviamovie",
